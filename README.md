@@ -27,6 +27,6 @@ This is a comprehensive data science project as we analyze Netflix data from sta
 <img width="1315" height="753" alt="Screenshot (124)" src="https://github.com/user-attachments/assets/7ff0b375-9a3a-4d02-97c1-136d2ac900b5" />
 
 ---
-# Which year has the most filmmed movies?
+# 🛠️ Which year has the most filmmed movies?
 <img width="1201" height="896" alt="Screenshot (125)" src="https://github.com/user-attachments/assets/6527d87d-d108-4add-8948-7b40ce8f876a" />
 
